@@ -1,2 +1,2 @@
 # new-life
-My readme file is ready
+My readme file is ready now.
